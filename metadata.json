@@ -1,0 +1,6 @@
+{
+  "name": "OmniCalc Pro",
+  "description": "Advanced scientific, graphing, programmer, matrix, and financial engineering calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
